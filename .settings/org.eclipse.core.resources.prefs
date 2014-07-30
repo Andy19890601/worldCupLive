@@ -1,0 +1,6 @@
+eclipse.preferences.version=1
+encoding//src/main/java/cn/edu/pku/live/controller/UserController.java=UTF-8
+encoding//src/main/java/cn/edu/pku/live/dao/AdvancedHibernateDao.java=UTF-8
+encoding//src/main/java/cn/edu/pku/live/dao/ChatDao.java=UTF-8
+encoding//src/main/java/cn/edu/pku/live/util/Page.java=UTF-8
+encoding//src/test/java/cn/edu/pku/live/test/ChatTest.java=UTF-8
